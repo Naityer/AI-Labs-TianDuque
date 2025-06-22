@@ -1,0 +1,13 @@
+{
+  "env": "MountainCar-v0",
+  "episodes": 2000,
+  "alpha": 0.1,
+  "gamma": 0.99,
+  "epsilon_start": 1.0,
+  "epsilon_decay": 0.995,
+  "epsilon_min": 0.01,
+  "avg_reward_last_100": -160.19,
+  "max_reward": -120.0,
+  "success": false,
+  "training_time_seconds": 16.18
+}
